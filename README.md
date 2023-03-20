@@ -1,6 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
 
 ![PengChen96's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengchen96)
 
